@@ -1,0 +1,5 @@
+numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+Pillow==12.3.0
+ipykernel==7.4.0
